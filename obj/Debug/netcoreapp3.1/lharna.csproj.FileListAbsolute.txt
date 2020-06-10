@@ -1,0 +1,13 @@
+C:\Users\Olowolowo Bolanle\Documents\myclass\lharna\bin\Debug\netcoreapp3.1\lharna.exe
+C:\Users\Olowolowo Bolanle\Documents\myclass\lharna\bin\Debug\netcoreapp3.1\lharna.deps.json
+C:\Users\Olowolowo Bolanle\Documents\myclass\lharna\bin\Debug\netcoreapp3.1\lharna.runtimeconfig.json
+C:\Users\Olowolowo Bolanle\Documents\myclass\lharna\bin\Debug\netcoreapp3.1\lharna.runtimeconfig.dev.json
+C:\Users\Olowolowo Bolanle\Documents\myclass\lharna\bin\Debug\netcoreapp3.1\lharna.dll
+C:\Users\Olowolowo Bolanle\Documents\myclass\lharna\bin\Debug\netcoreapp3.1\lharna.pdb
+C:\Users\Olowolowo Bolanle\Documents\myclass\lharna\obj\Debug\netcoreapp3.1\lharna.csprojAssemblyReference.cache
+C:\Users\Olowolowo Bolanle\Documents\myclass\lharna\obj\Debug\netcoreapp3.1\lharna.AssemblyInfoInputs.cache
+C:\Users\Olowolowo Bolanle\Documents\myclass\lharna\obj\Debug\netcoreapp3.1\lharna.AssemblyInfo.cs
+C:\Users\Olowolowo Bolanle\Documents\myclass\lharna\obj\Debug\netcoreapp3.1\lharna.csproj.CoreCompileInputs.cache
+C:\Users\Olowolowo Bolanle\Documents\myclass\lharna\obj\Debug\netcoreapp3.1\lharna.dll
+C:\Users\Olowolowo Bolanle\Documents\myclass\lharna\obj\Debug\netcoreapp3.1\lharna.pdb
+C:\Users\Olowolowo Bolanle\Documents\myclass\lharna\obj\Debug\netcoreapp3.1\lharna.genruntimeconfig.cache
